@@ -1,0 +1,7 @@
+.video-container{
+    margin-top: 100px;
+    background-color: rgb(212, 212, 212);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
